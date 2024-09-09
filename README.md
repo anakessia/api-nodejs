@@ -13,7 +13,7 @@ Este projeto foi criado para demonstrar como estruturar uma aplicação backend 
 # Instalação
   Faça o clone do repositório do projeto:
 ```sh
-git clone 
+git clone https://github.com/anakessia/api-nodejs.git
 ```
 
 Navegue até o diretório do projeto:
@@ -30,4 +30,4 @@ Inicie o servidor:
 node index.js
 ```
 
-Abra o seu navegador e acesse http://localhost:3000/
+Abra o seu navegador e acesse http://localhost:3000
